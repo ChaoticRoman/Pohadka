@@ -13,3 +13,7 @@ Karkulka pokecala s vlkem. Vlk zjistil, že babička je sama.
 # Kapitola 4
 
 Vlk jde sežrat babičku.
+
+# Kapitola 5
+
+Vlk sežral babičku.
