@@ -8,4 +8,8 @@ Karkulka potkala vlka.
 
 # Kapitola 3
 
-Karkulka pokecala s vlkem.
+Karkulka pokecala s vlkem. Vlk zjistil, že babička je sama.
+
+# Kapitola 4
+
+Vlk jde sežrat babičku.
