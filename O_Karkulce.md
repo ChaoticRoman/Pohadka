@@ -1,6 +1,6 @@
 # Kapitola 1
 
-Karkulka dostala kosicek a sla za babickou.
+Karkulka dostala košíček a šla za babičkou.
 
 # Kapitola 2
 
